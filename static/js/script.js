@@ -1,0 +1,1 @@
+alert("Enter the mark. You must be score more thar 50 for 100")
